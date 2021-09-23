@@ -122,7 +122,7 @@ public class AddBookWindow extends javax.swing.JFrame {
 
         jLabel6.setText("Quantity");
 
-        genrecb.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Comedy", "Science Fiction", "Geek", "Magic" }));
+        genrecb.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Science Fiction", "High-Fantasy", "Action & Adventure", "Classics", "Comic Book", "Graphic Novel", "Detective & Mystery", "Fantasy", "Historical Fiction", "Horror", "Literary Fiction", "Biography & Autobiography", "Essay", "History ", "Memoir", "Poetry" }));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

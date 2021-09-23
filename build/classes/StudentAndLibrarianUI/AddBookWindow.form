@@ -211,11 +211,23 @@
     <Component class="javax.swing.JComboBox" name="genrecb">
       <Properties>
         <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
-          <StringArray count="4">
-            <StringItem index="0" value="Comedy"/>
-            <StringItem index="1" value="Science Fiction"/>
-            <StringItem index="2" value="Geek"/>
-            <StringItem index="3" value="Magic"/>
+          <StringArray count="16">
+            <StringItem index="0" value="Science Fiction"/>
+            <StringItem index="1" value="High-Fantasy"/>
+            <StringItem index="2" value="Action &amp; Adventure"/>
+            <StringItem index="3" value="Classics"/>
+            <StringItem index="4" value="Comic Book"/>
+            <StringItem index="5" value="Graphic Novel"/>
+            <StringItem index="6" value="Detective &amp; Mystery"/>
+            <StringItem index="7" value="Fantasy"/>
+            <StringItem index="8" value="Historical Fiction"/>
+            <StringItem index="9" value="Horror"/>
+            <StringItem index="10" value="Literary Fiction"/>
+            <StringItem index="11" value="Biography &amp; Autobiography"/>
+            <StringItem index="12" value="Essay"/>
+            <StringItem index="13" value="History "/>
+            <StringItem index="14" value="Memoir"/>
+            <StringItem index="15" value="Poetry"/>
           </StringArray>
         </Property>
       </Properties>

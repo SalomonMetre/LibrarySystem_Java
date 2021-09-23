@@ -25,7 +25,6 @@ public class WelcomeScreen extends javax.swing.JFrame {
         setTitle("WELCOME !");
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        
     }
     
     public void splashScreen(){
